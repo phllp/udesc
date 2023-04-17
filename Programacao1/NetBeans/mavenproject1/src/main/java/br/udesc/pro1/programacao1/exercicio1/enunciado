@@ -1,0 +1,12 @@
+Crie uma classe Lampada com o atributo ligada (tipo boolean) e 
+métodos ligar() e desligar(). Os métodos devem alterar o atributo 
+ligada. Crie também um método observar() que retorna a String 
+“Ligada” se a lâmpada estiver ligada e “Desligada” se a lâmpada 
+estiver desligada.”
+Escreva um construtor para a classe Lampada de forma que 
+instâncias desta classe só possam ser criadas se um estado inicial for 
+passado para o construtor.
+Crie o método main e instacie 2 objetos do tipo Lampada: lampada1 e
+lampada2. Na sequência, use os métodos ligar() para objeto 
+lampada1 e desligar() para o objeto lampada2. Por fim, utilize o 
+método observar para mostrar o status da lâmpada
